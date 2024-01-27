@@ -28,3 +28,7 @@ Through this meticulous process, the project aimed to gain a nuanced understandi
 As seen above, ankle torque depends on the ground reaction forces. When we walk faster, the force with which the heel strikes increases. The increase in the GRF increases the pulling forces of the muscles and this leads to an increase in ankle torque.The forces pushing on the ankles start to grow as the step frequency does, which results in an increase in ankle torque. The increased muscle forces cause the dorsiflexion and plantarflexion angles to increase.
 In a study it was also found that: The contribution of tendon elastic strain energy to positive work in the ankle plantar flexors increased significantly with increase speed. The muscle forces cause the elastic strain on the tendons. Under extreme cases, running at high speeds could damage the tendon
 
+## Please refer the below repositories for related projects:
+* Human-Gait-Analysis-with-Exoskeletons-2- : For "Prosthesis Mid-level Control"
+* Human-Gait-Analysis-with-Exoskeletons-3- : For "Phase-Based Exoskeleton Control"
+
