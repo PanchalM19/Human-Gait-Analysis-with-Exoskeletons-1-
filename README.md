@@ -2,6 +2,7 @@
 
 ## 1. Measurement and Analysis of Gait
 In this project, motion capture data obtained from a dual bed treadmill, which calculates individual Ground Reaction Forces (GRF) on each foot, was systematically processed and analyzed. 
+
 <img width="580" alt="image" src="https://github.com/PanchalM19/Human-Gait-Analysis-with-Exoskeletons/assets/115374409/5a26b388-e062-4d34-b572-ccaa67938ee0">
 
 The anterior/posterior position of the right toe marker, along with the 3D trajectories of the toe marker, was visualized to provide insights into foot movement. Subsequently, sagittal plane trajectories of the shank and foot were plotted, enhancing the understanding of limb dynamics. 
